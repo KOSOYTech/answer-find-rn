@@ -1,0 +1,12 @@
+{
+  "name": "answer-find",
+  "displayName": "answer-find",
+  "expo": {
+    "name": "answer-find",
+    "slug": "answer-find",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
